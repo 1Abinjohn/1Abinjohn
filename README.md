@@ -5,7 +5,7 @@ I am a recent graduate with a profound interest in technology and a dedication t
 
 ## Objective
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst. I am also interested in Vulnerability Assessment and Penetration Testing (VAPT), as it complements my desire to understand and address security vulnerabilities proactively.
 
 ## Skills
 
@@ -18,10 +18,18 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
+## Bug Bounty Writeups
+
+
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| The Importance of Proper Session Management      | <a href="https://abinjohntech.blogspot.com/2024/03/the-importance-of-proper-session.html">BUG BOUNTY</a>|
+
 ## Tools
 <div>
- <img src="https://img.shields.io/badge/-The%20Hive-1679A7?&style=for-the-badge&logo=The%20Hive&logoColor=white" />
+ <img src="https://img.shields.io/badge/-TheHive-1679A7?&style=for-the-badge&logo=TheHive&logoColor=white" />
  <img src="https://img.shields.io/badge/-Shuffler-1679A7?&style=for-the-badge&logo=Shuffler&logoColor=white" />
+ <img src="https://img.shields.io/badge/-Burp%20Suite-1679A7?&style=for-the-badge&logo=Burp%20Suite&logoColor=white" />
 </div>
 
 ### Network
