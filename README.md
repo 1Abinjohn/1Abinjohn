@@ -11,7 +11,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <!-- <a href="https://google.com">Detection Lab</a> --> SOC Automation Lab|
+| SIEM Implementation and Log Analysis          | <a href="https://abinjohntech.blogspot.com/2024/04/siem-implementation-and-log-analysis.html">Detection Lab </a>  SOC Automation Lab|
 | Network Traffic Monitoring and Attack Detection |<!-- <a href="https://google.com">Detection Lab</a> --> SOC Automation Lab|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
