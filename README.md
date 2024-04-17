@@ -14,8 +14,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | SIEM Implementation and Log Analysis          | <a href="https://abinjohntech.blogspot.com/2024/04/siem-implementation-and-log-analysis.html">Detection Lab </a>|
 | Network Traffic Monitoring and Attack Detection |<!-- <a href="https://google.com">Detection Lab</a> --> SOC Automation Lab|
 | Security Automation with Shuffle SOAR         | <a href="https://abinjohntech.blogspot.com/2024/04/security-automation-with-shuffle-soar.html">Detection Lab Detection Lab</a>|
-| Incident Response Planning and Execution      | <a href="https://abinjohntech.blogspot.com/2024/04/enhancing-soc-efficiency-through.html">Detection Lab Detection Lab</a>|
-| Case Management with TheHive                  | <a href="https://abinjohntech.blogspot.com/2024/04/case-management-with-thehive.html">Detection Lab Detection Lab</a>|
+| Incident Response Planning and Execution      | <a href="https://abinjohntech.blogspot.com/2024/04/enhancing-soc-efficiency-through.html">Detection Lab</a>|
+| Case Management with TheHive                  | <a href="https://abinjohntech.blogspot.com/2024/04/case-management-with-thehive.html">Detection Lab</a>|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Bug Bounty Writeups
